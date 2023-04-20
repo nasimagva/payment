@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Razorpay</string>
+    <string name="currency">INR</string>
+</resources>
